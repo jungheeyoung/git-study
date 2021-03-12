@@ -1,10 +1,7 @@
 master ???
 
 hello
-<<<<<<< HEAD
 hell
-=======
 hell
 hello testing branch
 for edit test 
->>>>>>> testing
